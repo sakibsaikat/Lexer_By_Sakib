@@ -1,12 +1,22 @@
 #include<stdio.h>
-main(){
-    int a,b;
-    int x;
-    double f;
-    float c;
-    c=a+b;
-    if(a>2){
-        printf("Wow");
+
+main()
+{
+    int i,emoji=5,error;
+
+
+    
+    if(error==1){
+         for(i=0; i<=emoji; i++){
+            printf("\nJoto beshi takabo toto taratari code run krbe\n");
+        }
     }
-    printf("Hi there");
+    else{
+        printf("\nki code likhsi jani na");
+    }
+    
+    
+  
+    
+    return 0;
 }

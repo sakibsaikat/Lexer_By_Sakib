@@ -28,7 +28,7 @@ int main(){
 	}
 
     char *line = '\0';
-    char content[200];
+    char content[400];
     size_t len = 0;
     int count =0;
     *content='\0';
